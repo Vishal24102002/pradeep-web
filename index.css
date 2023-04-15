@@ -9,7 +9,7 @@
 body {
     background-color: aqua;
     background-image: url('bg2.jpg');
-    background-size: 100vh 100vw ;
+    background-size: cover ;
     background-repeat: no-repeat;
     overflow: hidden;
 
@@ -159,13 +159,13 @@ body {
 @media only screen and (max-width: 1000px) {
     body {
         background: url("bgpd.jpg");
-        background-size: cover;
+        background-size: 100vh 100vw;
         background-repeat: no-repeat;
     }
     
 }
 
-@media only screen and (max-width: 545px) {
+@media only screen and (max-width: 600px) {
     .h-nav {
         visibility: collapse
        
