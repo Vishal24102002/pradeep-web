@@ -159,7 +159,7 @@ body {
 @media only screen and (max-width: 1000px) {
     body {
         background: url("bgpd.jpg");
-        background-size: 100vh 100vw;
+        background-size: 100% 100vh;
         background-repeat: no-repeat;
     }
     
