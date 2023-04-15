@@ -193,7 +193,7 @@ body {
 
         position: absolute;
         height: 100%;
-        width: 100vw;
+        width: 100%;
         left: 0%;
         top: 0px;
         padding: 20px;
@@ -216,11 +216,10 @@ body {
         flex-direction: column; */
         padding-top: 30px;  
     }
-    .h-list li a{
+    
+    .nav-li ul li a {
         color:yellow;
-        
     }
-
 
 
 .nav-li {
