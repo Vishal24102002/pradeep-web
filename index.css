@@ -9,7 +9,7 @@
 body {
     background-color: aqua;
     background-image: url('bg2.jpg');
-    background-size: cover;
+    background-size: 100vh 100vw ;
     background-repeat: no-repeat;
     overflow: hidden;
 
